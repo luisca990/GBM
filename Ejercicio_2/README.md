@@ -12,11 +12,11 @@ Este repositorio contiene la solución al problema utilizando Python 3.11.4. La 
       - **Pruebau3.py**: Archivo que ejecuta la tercera prueba unitaria con salida correcta.
       - **Pruebau4.py**: Archivo que ejecuta la cuarta prueba unitaria con salida correcta.
       - **Pruebau5.py**: Archivo que ejecuta la quinta prueba unitaria con salida correcta.
-      - **PruebaUniataria1.txt**: Archivo que de texto que contiene el formato de entrada de la prueba 1.
-      - **PruebaUniataria2.txt**: Archivo que de texto que contiene el formato de entrada de la prueba 2.
-      - **PruebaUniataria3.txt**: Archivo que de texto que contiene el formato de entrada de la prueba 3.
-      - **PruebaUniataria4.txt**: Archivo que de texto que contiene el formato de entrada de la prueba 4.
-      - **PruebaUniataria5.txt**: Archivo que de texto que contiene el formato de entrada de la prueba 5.
+      - **PruebaUniataria1.txt**: Archivo de texto que contiene el formato y entrada de la prueba 1.
+      - **PruebaUniataria2.txt**: Archivo de texto que contiene el formato y entrada de la prueba 2.
+      - **PruebaUniataria3.txt**: Archivo de texto que contiene el formato y entrada de la prueba 3.
+      - **PruebaUniataria4.txt**: Archivo de texto que contiene el formato y entrada de la prueba 4.
+      - **PruebaUniataria5.txt**: Archivo de texto que contiene el formato y entrada de la prueba 5.
   - **Problema.txt**: Archivo de texto que contiene la descripción del problema.
   - **ScriptEx2.py**: Archivo principal que contiene el código de la solución.
 
