@@ -10,9 +10,9 @@ Este repositorio contiene la solución al problema utilizando Python 3.11.4. La 
       - **Prueba1.py**: Archivo que ejecuta la primera prueba unitaria cuando es palíndromo.
       - **Prueba2.py**: Archivo que ejecuta la segunda prueba unitaria cuando es palíndromo.
       - **Prueba3.py**: Archivo que ejecuta la tercera prueba unitaria cuando es palíndromo.
-      - **Prueba4.py**: Archivo que ejecuta la tercera prueba unitaria cuando es palíndromo.
-      - **Prueba5.py**: Archivo que ejecuta la tercera prueba unitaria cuando es palíndromo.
-      - **Prueba6.py**: Archivo que ejecuta la tercera prueba unitaria cuando no es palíndromo.
+      - **Prueba4.py**: Archivo que ejecuta la cuarta prueba unitaria cuando es palíndromo.
+      - **Prueba5.py**: Archivo que ejecuta la quinta prueba unitaria cuando es palíndromo.
+      - **Prueba6.py**: Archivo que ejecuta la sexta prueba unitaria cuando no es palíndromo.
   - **Problema.txt**: Archivo de texto que contiene la descripción del problema.
   - **ScriptEx1.py**: Archivo principal que contiene el código de la solución.
 
