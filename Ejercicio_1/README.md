@@ -29,6 +29,6 @@ Las pruebas unitarias  están en los ficheros Prueba1.py, Prueba2.py ... , puede
 python Prueba1.py
 ```
 Y así sucesivamente hasta la prueba 6.
-Los resultados de las preubas unitarias estan en la carpeta  "Salidas" dentro de cada uno de los ficheros correspondientes.
+Los resultados de las pruebas unitarias estan en la carpeta  "Salidas" dentro de cada uno de los ficheros correspondientes.
 
 
